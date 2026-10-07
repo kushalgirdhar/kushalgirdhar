@@ -51,7 +51,3 @@ I work with **Django, Django REST Framework, FastAPI, PostgreSQL, MySQL, Docker,
 </td>
 </tr>
 </table>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:be7751,100:474c33&animation=twinkling" width="100%" alt="Footer"/>
