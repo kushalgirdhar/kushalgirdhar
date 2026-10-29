@@ -20,10 +20,6 @@
 
 ## 👨‍💻 About Me
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 ### Hi, I'm Kushal 👋
 
 I'm an **AI Developer** specializing in building offline-capable **Computer Vision** systems and enterprise-grade **Hybrid RAG** architectures in Python.
@@ -32,29 +28,8 @@ I'm an **AI Developer** specializing in building offline-capable **Computer Visi
 - ⚙️ **Core Focus:** Low-latency edge inference (ONNX, YOLOv8), Reciprocal Rank Fusion (RRF), and high-throughput REST APIs.
 - 🎯 **Philosophy:** Developing resilient, offline-first systems from research prototypes to production.
 
-<br/>
-
 > 🎓 **MCA — Artificial Intelligence & Data Science**  
 > 🏫 *Vivekananda Global University, Jaipur*
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Quick Snapshot
-
-| | |
-|---|---|
-| 🐍 **Primary** | **Python** |
-| 👁️ **Vision & OCR** | **OpenCV · YOLOv8 · U2Net · ONNX Runtime · RapidOCR · Tesseract** |
-| 🤖 **AI / ML & RAG** | **PyTorch · Sentence-Transformers · Qdrant · BM25 · Scikit-Learn** |
-| ⚙️ **Backend** | **FastAPI · Django · DRF · Flask · REST APIs** |
-| 🗄️ **Data & Web** | **Qdrant · PostgreSQL · MySQL · SQLAlchemy · Playwright** |
-| 🛠️ **Tools & DevOps** | **Docker · FFmpeg · n8n · Git · GitHub · Linux** |
-| 🎯 **Focus** | **Computer Vision · Hybrid RAG · Python Backend** |
-
-</td>
-</tr>
-</table>
 
 ---
 
