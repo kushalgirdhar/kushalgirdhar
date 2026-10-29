@@ -2,7 +2,7 @@
 
 <h1>Kushal Girdhar</h1>
 
-<h2>🤖 AI Developer · 👁️ Computer Vision & OCR · 🧠 RAG & LLMs · ⚙️ Python Backend</h2>
+<h3>🤖 AI Developer · 👁️ Computer Vision & OCR · 🧠 RAG & LLMs · ⚙️ Python&nbsp;Backend</h3>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=be7751&center=true&vCenter=true&width=860&lines=AI+Developer+%7C+Computer+Vision+%26+RAG+Systems;Building+offline+vision+%26+video+processing+pipelines;Hybrid+RAG+with+Qdrant%2C+BM25+%26+Sentence-Transformers;FastAPI+%7C+PyTorch+%7C+ONNX+Runtime+%7C+OpenCV+%7C+Django;Multi-modal+AI+automations+with+n8n+%26+OpenAI" alt="Typing SVG"/>
