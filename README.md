@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Kushal%20Girdhar&fontAlign=50&fontAlignY=40&animation=twinkling&color=0:474c33,100:be7751&fontColor=ffffff" width="100%" alt="Kushal Girdhar"/>
+<h1>Kushal Girdhar</h1>
 
 <h2>🤖 AI Developer · 👁️ Computer Vision & OCR · 🧠 RAG & LLMs · ⚙️ Python Backend</h2>
 
@@ -142,80 +142,5 @@ I develop production-ready, offline-capable systems with **FastAPI, PyTorch, Ope
 </td>
 </tr>
 </table>
-
----
-
-## 🚀 Highlighted Systems (from CV)
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🚗 Auto Frame AI
-**Vehicle Image-to-Showroom Video Pipeline**
-- Offline showroom video generation pipeline from raw lot photos.
-- U2Net on ONNX Runtime with alpha hole-filling & contact shadows.
-- Dual OCR (RapidOCR + Tesseract fallback) & plate homography.
-- Async job queue with 12 FastAPI endpoints & FFmpeg rendering.
-
-`FastAPI` · `YOLOv8` · `U2Net` · `ONNX Runtime` · `OpenCV` · `RapidOCR` · `FFmpeg`
-
-</td>
-<td width="33%" valign="top">
-
-### 🔍 Hybrid RAG Knowledge Bot
-**Scratch-Built Web RAG Pipeline**
-- Crawls static & dynamic JS sites with Playwright & BeautifulSoup.
-- Multilingual dense embeddings (multilingual-e5, BGE-M3) in Qdrant.
-- Hybrid BM25 + dense search fused via Reciprocal Rank Fusion (RRF).
-- Model-free intent classifier & reranker with out-of-scope filtering.
-
-`Python` · `Qdrant` · `BM25` · `Sentence-Transformers` · `PyTorch` · `Playwright` · `FastAPI` · `Streamlit`
-
-</td>
-<td width="33%" valign="top">
-
-### ✍️ AI Blog Studio & WhatsApp Bot
-**Offline Vision-to-Blog & Conversational AI**
-- OpenCV/Pillow visual feature extraction (K-Means, Laplacian variance).
-- Grammar & template draft generation with TF-IDF/shingling plagiarism checker.
-- Multi-modal WhatsApp AI backend with n8n buffer memory, Whisper STT & TTS.
-
-`Flask` · `OpenCV` · `Scikit-Learn` · `PostgreSQL` · `n8n` · `OpenAI`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Education & Certifications
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Education
-- **Master of Computer Applications (MCA)** — *AI & Data Science*  
-  Vivekananda Global University, Jaipur (2024 – 2026)
-- **Bachelor of Computer Applications (BCA)**  
-  Maharaja Ganga Singh University, Rajasthan (2021 – 2024)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏅 Certifications
-- 🤖 **AI Foundations for Everyone**
-- 📊 **Machine Learning with Python**
-- 🐧 **Red Hat Linux Fundamentals**
-- 🐍 **Python Data Structures and Algorithms**
-
-</td>
-</tr>
-</table>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:be7751,100:474c33&animation=twinkling" width="100%" alt="Footer"/>
 
 
