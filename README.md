@@ -20,21 +20,25 @@
 
 ## 👨‍💻 About Me
 
-<table>
+<table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ### Hi, I'm Kushal 👋
 
-I'm an **AI Developer** with hands-on experience building end-to-end computer vision, OCR, and retrieval-augmented generation (RAG) systems in Python.
+I'm an **AI Developer** specializing in building offline-capable **Computer Vision** systems and enterprise-grade **Hybrid RAG** architectures in Python.
 
-I develop production-ready, offline-capable systems with **FastAPI, PyTorch, OpenCV, ONNX Runtime, YOLOv8, Qdrant, BM25, Django, Docker, FFmpeg, and n8n** — spanning vehicle video pipelines, hybrid RAG knowledge chatbots, and multi-modal AI automations.
+- 🚀 **Building:** Production vehicle video pipelines, custom OCR engines, and multimodal AI automations.
+- ⚙️ **Core Focus:** Low-latency edge inference (ONNX, YOLOv8), Reciprocal Rank Fusion (RRF), and high-throughput REST APIs.
+- 🎯 **Philosophy:** Developing resilient, offline-first systems from research prototypes to production.
 
-🎓 **MCA — Artificial Intelligence & Data Science**  
-🏫 Vivekananda Global University, Jaipur  
+<br/>
+
+> 🎓 **MCA — Artificial Intelligence & Data Science**  
+> 🏫 *Vivekananda Global University, Jaipur*
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ### ⚡ Quick Snapshot
 
@@ -65,7 +69,7 @@ I develop production-ready, offline-capable systems with **FastAPI, PyTorch, Ope
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
